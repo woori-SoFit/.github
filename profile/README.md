@@ -64,7 +64,7 @@
 
 | 대출 신청 | 대출 진행 관리 | 약정 체결 및 대출 실행 | 실행 대출 관리 |
 |------|------|------|------|
-| ![대출 신청](이미지_URL) | ![대출 진행 관리](이미지_URL) | ![약정 체결 및 대출 실행](이미지_URL) | ![실행 대출 관리](이미지_URL) |
+| <img width="334" height="723" alt="스크린샷 2026-06-15 15 13 01" src="https://github.com/user-attachments/assets/9c7c6976-c56e-4688-91bb-6999be634564" /> | <img width="334" height="723" alt="스크린샷 2026-06-15 15 26 27" src="https://github.com/user-attachments/assets/c11af4c8-7d08-4f55-b102-99e67991ae1e" /> | <img width="334" height="723" alt="localhost_5173_(iPhone 12 Pro) (20)" src="https://github.com/user-attachments/assets/3f2ee13a-f33d-4bae-ad1e-79ce0862d89d" /> |<img width="334" height="723" alt="localhost_5173_(iPhone 12 Pro) (25)" src="https://github.com/user-attachments/assets/1ee78e3d-0a27-4a66-abec-d7e11eb32ad1" />|
 
 ---
 
@@ -77,7 +77,6 @@
 | 1 | 2 | 3 | 4 |
 |------|------|------|------|
 | ![1](이미지_URL) | ![2](이미지_URL) | ![3](이미지_URL) | ![4](이미지_URL) |
-
 
 ---
 
