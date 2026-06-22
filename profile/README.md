@@ -23,7 +23,7 @@
 
 ## 🗓️ WBS
 
-![WBS](이미지_URL)
+<img width="1062" height="790" alt="image" src="https://github.com/user-attachments/assets/75a1eaa6-c74c-4d80-bbf5-ac0ebf423788" />
 
 ---
 
