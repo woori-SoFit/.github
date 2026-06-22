@@ -14,13 +14,55 @@
 
 ## 👥 팀원
 
-| 이름 | Github 프로필 | 역할 |
-|------|---------------|------|
-| 오색빛 | [light11014](https://github.com/light11014) | PM |
-| 남민영 | [Minyeong0724](https://github.com/Minyeong0724) | TL & AI Leader |
-| 고희연 | [HeeYeon-Ko](https://github.com/HeeYeon-Ko) | Backend Leader |
-| 김시온 | [noiskk](https://github.com/noiskk) | Infra Leader |
-| 이혜윤 | [hyeyoon23](https://github.com/hyeyoon23) | Frontend Leader |
+<table>
+  <tr>
+    <th align="center">오색빛</th>
+    <th align="center">남민영</th>
+    <th align="center">고희연</th>
+    <th align="center">김시온</th>
+    <th align="center">이혜윤</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="180" alt="스크린샷 2026-06-22 오후 12 40 22" src="https://github.com/user-attachments/assets/3491bb64-ec58-47a0-9f7e-1342a150f2d6" />
+    </td>
+    <td align="center">
+      <img width="180" alt="스크린샷 2026-06-22 오후 12 40 26" src="https://github.com/user-attachments/assets/d06523ed-8be2-4433-85a2-ba77684339a6" />
+    </td>
+    <td align="center">
+      <img width="180" alt="스크린샷 2026-06-22 오후 12 40 32" src="https://github.com/user-attachments/assets/6244b688-0e6a-4bcb-8569-b764c24798c5" />
+    </td>
+    <td align="center">
+      <img width="180" alt="스크린샷 2026-06-22 오후 12 40 38" src="https://github.com/user-attachments/assets/00dab343-f0b3-4bf5-bd92-8aca696df5c7" />
+    </td>
+    <td align="center">
+      <img width="180" alt="스크린샷 2026-06-22 오후 12 40 44" src="https://github.com/user-attachments/assets/46d806c0-ca17-4c62-98a9-943466494791" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>PM</b><br/>
+      <a href="https://github.com/light11014">@light11014</a>
+    </td>
+    <td align="center">
+      <b>TL & AI Leader</b><br/>
+      <a href="https://github.com/Minyeong0724">@Minyeong0724</a>
+    </td>
+    <td align="center">
+      <b>Backend Leader</b><br/>
+      <a href="https://github.com/HeeYeon-Ko">@HeeYeon-Ko</a>
+    </td>
+    <td align="center">
+      <b>Infra Leader</b><br/>
+      <a href="https://github.com/noiskk">@noiskk</a>
+    </td>
+    <td align="center">
+      <b>Frontend Leader</b><br/>
+      <a href="https://github.com/hyeyoon23">@hyeyoon23</a>
+    </td>
+  </tr>
+</table>
+
 
 <br><br>
 
