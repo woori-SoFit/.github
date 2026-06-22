@@ -5,30 +5,30 @@
 
 ### 소상공인을 위한 **성장 신용 대출**! 더 많은 사장님에게 **맞춤 금융 기회**를 제공합니다.
 
-> 2026 우리FIS 아카데미 최종 프로젝트 1등 수상작!
+> 2026 우리FIS 아카데미 최종 프로젝트 1등 수상작! 🥇
 
 본 프로젝트는 정부의 소상공인 특화 신용평가모형(SCB) 시범사업 방향을 참고하여, 사업자 CB등급과 자체 성장 S등급을 결합한 대출 플랫폼을 구현했습니다.<br> 
 소상공인의 사업성을 보다 공정하게 평가하고, 사용자가 대출 신청부터 심사, 실행, 사후관리까지 하나의 플랫폼에서 편리하게 이용할 수 있도록 지원합니다.
 
----
+<br>
 
 ## 👥 팀원
 
 | 이름 | Github 프로필 | 역할 |
 |------|---------------|------|
-| 오색빛 | [Github](https://github.com/light11014) | PM |
-| 남민영 | [Github](https://github.com/Minyeong0724) | TL & AI Leader |
-| 고희연 | [Github](https://github.com/HeeYeon-Ko) | Backend Leader |
-| 김시온 | [Github](https://github.com/noiskk) | Infra Leader |
-| 이혜윤 | [Github](https://github.com/hyeyoon23) | Frontend Leader |
+| 오색빛 | [light11014](https://github.com/light11014) | PM |
+| 남민영 | [Minyeong0724](https://github.com/Minyeong0724) | TL & AI Leader |
+| 고희연 | [HeeYeon-Ko](https://github.com/HeeYeon-Ko) | Backend Leader |
+| 김시온 | [noiskk](https://github.com/noiskk) | Infra Leader |
+| 이혜윤 | [hyeyoon23](https://github.com/hyeyoon23) | Frontend Leader |
 
----
+<br><br>
 
 ## 🗓️ WBS
 
 <img width="1062" height="790" alt="image" src="https://github.com/user-attachments/assets/75a1eaa6-c74c-4d80-bbf5-ac0ebf423788" />
 
----
+<br><br>
 
 ## 🛠️ 기술 스택 및 서비스 아키텍처
 
@@ -37,15 +37,13 @@
 
 <img width="832" height="652" alt="image" src="https://github.com/user-attachments/assets/2b4df34f-7ab7-4adf-b146-aeed95d0e270" />
 
-
-
----
+<br><br>
 
 ## 🗄️ ERD
 
 <img width="4016" height="2800" alt="sofit_erd_260529" src="https://github.com/user-attachments/assets/80b2c8e9-41f7-4e20-930e-bb7b911ba2f0" />
 
----
+<br><br>
 
 ## 🤖 핵심 AI 성장평가 모델
 
@@ -54,8 +52,7 @@
 
 <img width="1920" height="1080" alt="우리FISA 6기 - SOFIT 최종발표 (7)" src="https://github.com/user-attachments/assets/1448467f-8ce0-4124-9cbb-4d355c1b78da" />
 
-
----
+<br><br>
 
 ## 🚀 서비스 주요 기능
 
@@ -71,7 +68,7 @@
 |------|------|------|------|
 | <img width="334" height="723" alt="스크린샷 2026-06-15 15 13 01" src="https://github.com/user-attachments/assets/9c7c6976-c56e-4688-91bb-6999be634564" /> | <img width="334" height="723" alt="스크린샷 2026-06-15 15 26 27" src="https://github.com/user-attachments/assets/c11af4c8-7d08-4f55-b102-99e67991ae1e" /> | <img width="334" height="723" alt="localhost_5173_(iPhone 12 Pro) (20)" src="https://github.com/user-attachments/assets/3f2ee13a-f33d-4bae-ad1e-79ce0862d89d" /> |<img width="334" height="723" alt="localhost_5173_(iPhone 12 Pro) (25)" src="https://github.com/user-attachments/assets/1ee78e3d-0a27-4a66-abec-d7e11eb32ad1" />|
 
----
+<br><br>
 
 ### 마이비즈데이터 — 우리 가게 데이터를 한눈에
 
@@ -83,7 +80,7 @@
 |------|------|------|------|
 | <img width="334" height="723" alt="image" src="https://github.com/user-attachments/assets/90164677-840f-4550-af6a-b37c8e926f4f" /> | <img width="334" height="723" alt="image" src="https://github.com/user-attachments/assets/b464806b-afdd-4d1a-b178-7744b01b7574" /> | <img width="334" height="723" alt="image" src="https://github.com/user-attachments/assets/8e89c32b-33c5-4c96-8a8d-c7e214c89069" /> | <img width="334" height="723" alt="image" src="https://github.com/user-attachments/assets/4e3f1c7c-beb2-42ec-bda9-9127fae5fb0e" /> |
 
----
+<br><br>
 
 ### 성장 등급 리포트 — AI 성장 등급 진단
 
@@ -94,7 +91,7 @@
 |------|------|------|
 | <img width="230" height="490" alt="스크린샷 2026-06-17 12 12 57" src="https://github.com/user-attachments/assets/212ced66-b834-40a9-9b9a-92faabd225c1" /> | <img width="230" height="490" alt="sofit cloud_(iPhone 12 Pro) (2)" src="https://github.com/user-attachments/assets/e799b71d-cb2a-4c92-a4b2-4af90aac3798" /> | <img width="230" height="490" alt="sofit cloud_(iPhone 12 Pro) (3)" src="https://github.com/user-attachments/assets/3d14f55d-7bcc-408f-abf5-88a17a5f43c9" />|
 
----
+<br><br>
 
 ### 대출 진행 알림 — 신청부터 실행까지 실시간
 - 심사 단계 변경, 승인·거절 등 주요 이벤트를 **신청부터 실행까지 실시간으로 알림**합니다.
@@ -104,7 +101,7 @@
 |------|
 | <img width="230" height="490" alt="sofit cloud_(iPhone 12 Pro) (2) (1)" src="https://github.com/user-attachments/assets/39a29db3-4733-468a-bd07-2bf3e74c8274" />|
 
----
+<br><br>
 
 ## 📦 산출물
 
