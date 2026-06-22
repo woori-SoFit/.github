@@ -108,15 +108,15 @@
 
 ### API 명세서
 
-- Swagger / Postman 등을 활용한 API 문서화 내용을 작성합니다.
-- 총 API 개수나 주요 API 그룹을 작성합니다.
+- 사용자, 은행원, AI 서버 간 주요 기능 흐름을 기준으로 총 64개의 API를 설계하고 문서화했습니다.
 
-![API 명세서](이미지_URL)
+<img width="1920" height="1080" alt="우리FISA 6기 - SOFIT 최종발표 (4)" src="https://github.com/user-attachments/assets/1d12d30d-01e4-4cb2-b2cf-5ef434842107" />
+
 
 ### UI / 와이어프레임
 
-- 와이어프레임부터 최종 UI까지의 디자인 산출물을 설명합니다.
-- 디자인 시스템이나 컴포넌트 구조가 있다면 함께 작성합니다.
+- 서비스 기획 단계에서 와이어프레임을 먼저 설계하고, 이를 바탕으로 최종 UI 화면을 구체화했습니다.
 
-![UI 산출물](이미지_URL)
+<img width="1920" height="1080" alt="우리FISA 6기 - SOFIT 최종발표 (5)" src="https://github.com/user-attachments/assets/cdd7090f-2ce3-4cd9-8833-4711fd636639" />
+
 
