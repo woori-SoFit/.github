@@ -85,9 +85,9 @@
 - 대표자 개인 신용(CB)이 아닌 **사업의 성장 가능성**을 LightGBM 모델로 분석해 **S1~S10 등급**으로 환산합니다.
 - **SHAP 기반 XAI 리포트** — 등급을 *왜* 받았는지 항목별 기여도와 개선 방향까지 설명합니다.
 
-| 1 | 2 | 3 |
+| 성장 등급 리포트 | 종합 성장 등급 | 강점/개선 영역 |
 |------|------|------|
-| ![1](이미지_URL) | ![2](이미지_URL) | ![3](이미지_URL) |
+| <img width="334" height="723" alt="스크린샷 2026-06-17 12 12 57" src="https://github.com/user-attachments/assets/212ced66-b834-40a9-9b9a-92faabd225c1" /> | <img width="334" height="723" alt="sofit cloud_(iPhone 12 Pro) (2)" src="https://github.com/user-attachments/assets/e799b71d-cb2a-4c92-a4b2-4af90aac3798" /> | <img width="334" height="723" alt="sofit cloud_(iPhone 12 Pro) (3)" src="https://github.com/user-attachments/assets/3d14f55d-7bcc-408f-abf5-88a17a5f43c9" />|
 
 ---
 
@@ -95,17 +95,13 @@
 - 심사 단계 변경, 승인·거절 등 주요 이벤트를 **신청부터 실행까지 실시간으로 알림**합니다.
 - 결과만 통보받던 기존 방식과 달리, 진행 상황을 단계별로 투명하게 확인할 수 있습니다.
 
-| 1 | 2 |
-|------|------|
-| ![1](이미지_URL) | ![2](이미지_URL) |
+| 알림 내역 | 
+|------|
+| <img width="334" height="723" alt="sofit cloud_(iPhone 12 Pro) (2) (1)" src="https://github.com/user-attachments/assets/39a29db3-4733-468a-bd07-2bf3e74c8274" />|
 
 ---
 
 ## 📦 산출물
-
-### ERD
-
-![ERD 산출물](이미지_URL)
 
 ### API 명세서
 
@@ -121,15 +117,3 @@
 
 ![UI 산출물](이미지_URL)
 
----
-
-## 💭 회고
-
-프로젝트를 진행하며 배운 점, 어려웠던 점, 개선하고 싶은 점을 작성합니다.
-
-- 좋았던 점
-- 어려웠던 점
-- 기술적으로 성장한 부분
-- 다음에 개선하고 싶은 부분
-
-![회고 이미지](이미지_URL)
