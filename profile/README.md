@@ -3,9 +3,12 @@
 <img width="1920" height="1080" alt="우리FISA 6기 - SOFIT 최종발표" src="https://github.com/user-attachments/assets/2b8c5088-a355-41d7-9fb1-536e53581b5b" />
 
 
-소상공인을 위한 **성장 신용 대출**! 더 많은 사장님에게 **맞춤 금융 기회**를 제공합니다.
+### 소상공인을 위한 **성장 신용 대출**! 더 많은 사장님에게 **맞춤 금융 기회**를 제공합니다.
 
-기존 대출 심사는 대표자의 개인 신용 중심으로 이루어져 실제 사업 성과와 성장 가능성이 충분히 반영되지 못하는 한계가 있습니다. 본 프로젝트는 정부의 소상공인 특화 신용평가모형(SCB) 시범사업 방향을 참고하여, 사업자 CB등급과 자체 성장 S등급을 결합한 대출 플랫폼을 구현했습니다. 이를 통해 소상공인의 사업성을 보다 공정하게 평가하고, 사용자가 대출 신청부터 심사, 실행, 사후관리까지 하나의 플랫폼에서 편리하게 이용할 수 있도록 지원합니다.
+> 2026 우리FIS 아카데미 최종 프로젝트 1등 수상작!
+
+본 프로젝트는 정부의 소상공인 특화 신용평가모형(SCB) 시범사업 방향을 참고하여, 사업자 CB등급과 자체 성장 S등급을 결합한 대출 플랫폼을 구현했습니다.<br> 
+소상공인의 사업성을 보다 공정하게 평가하고, 사용자가 대출 신청부터 심사, 실행, 사후관리까지 하나의 플랫폼에서 편리하게 이용할 수 있도록 지원합니다.
 
 ---
 
@@ -29,7 +32,7 @@
 
 ## 🛠️ 기술 스택 및 서비스 아키텍처
 
-<img width="1920" height="1080" alt="우리FISA 6기 - SOFIT 최종발표 (3)" src="https://github.com/user-attachments/assets/7b32c757-7f47-4f1b-95a4-d41d19c3869d" />
+<img width="832" height="480" alt="우리FISA 6기 - SOFIT 최종발표 (3)" src="https://github.com/user-attachments/assets/7b32c757-7f47-4f1b-95a4-d41d19c3869d" />
 
 
 <img width="832" height="652" alt="image" src="https://github.com/user-attachments/assets/2b4df34f-7ab7-4adf-b146-aeed95d0e270" />
@@ -54,7 +57,7 @@
 
 ## 🚀 서비스 주요 기능
 
-### 💳 대출 서비스 — 사장님 맞춤 비대면 대출
+### 대출 서비스 — 사장님 맞춤 비대면 대출
 
 - 회원가입부터 대출 실행까지 **단계별 멀티스텝**으로 쉽고 빠르게 신청을 완료합니다.
   - **본인인증** — 사업자 인증(KYC, 국세청 API Mock) + 금융인증서 연동 + PIN 전자서명
@@ -68,7 +71,7 @@
 
 ---
 
-### 📊 마이비즈데이터 — 우리 가게 데이터를 한눈에
+### 마이비즈데이터 — 우리 가게 데이터를 한눈에
 
 - 사업장의 **매출·수익·고객·거래 데이터**를 월 단위로 분석해 대시보드로 제공합니다.
 - 배달앱 매출·리뷰·평점, 입출금, 순이익, 부가세 신고 현황 등 흩어진 가게 데이터를 한 화면에 모았습니다.
@@ -80,24 +83,24 @@
 
 ---
 
-### 🏆 성장 등급 리포트 — AI 성장 등급 진단
+### 성장 등급 리포트 — AI 성장 등급 진단
 
 - 대표자 개인 신용(CB)이 아닌 **사업의 성장 가능성**을 LightGBM 모델로 분석해 **S1~S10 등급**으로 환산합니다.
 - **SHAP 기반 XAI 리포트** — 등급을 *왜* 받았는지 항목별 기여도와 개선 방향까지 설명합니다.
 
 | 성장 등급 리포트 | 종합 성장 등급 | 강점/개선 영역 |
 |------|------|------|
-| <img width="334" height="723" alt="스크린샷 2026-06-17 12 12 57" src="https://github.com/user-attachments/assets/212ced66-b834-40a9-9b9a-92faabd225c1" /> | <img width="334" height="723" alt="sofit cloud_(iPhone 12 Pro) (2)" src="https://github.com/user-attachments/assets/e799b71d-cb2a-4c92-a4b2-4af90aac3798" /> | <img width="334" height="723" alt="sofit cloud_(iPhone 12 Pro) (3)" src="https://github.com/user-attachments/assets/3d14f55d-7bcc-408f-abf5-88a17a5f43c9" />|
+| <img width="230" height="490" alt="스크린샷 2026-06-17 12 12 57" src="https://github.com/user-attachments/assets/212ced66-b834-40a9-9b9a-92faabd225c1" /> | <img width="230" height="490" alt="sofit cloud_(iPhone 12 Pro) (2)" src="https://github.com/user-attachments/assets/e799b71d-cb2a-4c92-a4b2-4af90aac3798" /> | <img width="230" height="490" alt="sofit cloud_(iPhone 12 Pro) (3)" src="https://github.com/user-attachments/assets/3d14f55d-7bcc-408f-abf5-88a17a5f43c9" />|
 
 ---
 
-### 🔔 대출 진행 알림 — 신청부터 실행까지 실시간
+### 대출 진행 알림 — 신청부터 실행까지 실시간
 - 심사 단계 변경, 승인·거절 등 주요 이벤트를 **신청부터 실행까지 실시간으로 알림**합니다.
 - 결과만 통보받던 기존 방식과 달리, 진행 상황을 단계별로 투명하게 확인할 수 있습니다.
 
 | 알림 내역 | 
 |------|
-| <img width="334" height="723" alt="sofit cloud_(iPhone 12 Pro) (2) (1)" src="https://github.com/user-attachments/assets/39a29db3-4733-468a-bd07-2bf3e74c8274" />|
+| <img width="230" height="490" alt="sofit cloud_(iPhone 12 Pro) (2) (1)" src="https://github.com/user-attachments/assets/39a29db3-4733-468a-bd07-2bf3e74c8274" />|
 
 ---
 
